@@ -3,7 +3,7 @@ import 'firebase/firestore' // for the database
 import 'firebase/auth'  // for the authorisation
 
 const config = {
-  // ADD FIREBASE CONFIG
+    // ADD FIREBASE CONFIG HERE
 }
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
