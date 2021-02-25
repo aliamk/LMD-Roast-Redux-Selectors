@@ -1,6 +1,3 @@
 node_modules
 
-src/firebase
-src/firebase/firebase.utils.js
-src\firebase\firebase.utils.js
 .env
