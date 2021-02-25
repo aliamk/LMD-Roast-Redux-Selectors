@@ -29,10 +29,6 @@ export const OptionsContainer = styled.div`
     padding-top: 25px;
 `;
 
-export const CompanyName = styled.h1`
-  margin-top: 0.1em;
-`;
-
 /* Because we have a conditional style that applies to both div and Link,
 we define the styles first and then apply them to each */
 
@@ -51,7 +47,9 @@ export const OptionLink = styled(Link)`
 //   ${ OptionContainerStyles }
 // `;
 
-
+export const CompanyName = styled.h1`
+  margin-top: 0.1em;
+`;
 
 /* .header {
   height: 70px;

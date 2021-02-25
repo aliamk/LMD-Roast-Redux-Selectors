@@ -1,5 +1,5 @@
 import React from 'react'
-const { Component, Children, PropTypes } = React
+const { Component } = React
 
 class SplitText extends Component {
   render(){

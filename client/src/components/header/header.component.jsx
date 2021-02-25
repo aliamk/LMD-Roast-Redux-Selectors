@@ -14,7 +14,6 @@ import SplitText from './companyName'
 import './companyName.css'
 
 
-
 const Header = ({ currentUser, hidden }) => (
   <HeaderContainer>
     <LogoContainer to='/'>
@@ -25,7 +24,7 @@ const Header = ({ currentUser, hidden }) => (
     </CompanyName>
     <OptionsContainer>
       <OptionLink to='/shop'>SHOP</OptionLink>
-      <OptionLink to='/shop'>CONTACT</OptionLink>
+      <OptionLink to='/contact'>CONTACT</OptionLink>
       {
         currentUser ?
           <OptionLink as='div' onClick={() => auth.signOut()}>SIGN OUT</OptionLink>

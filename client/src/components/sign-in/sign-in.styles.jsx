@@ -30,5 +30,3 @@ export const ButtonsBarContainer = styled.div`
   justify-content: space-evenly;
 }
 */
-
-

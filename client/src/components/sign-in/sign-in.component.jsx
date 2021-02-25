@@ -6,7 +6,6 @@ import { auth, signInWithGoogle } from '../../firebase/firebase.utils'
 import { SignInContainer, SignInTitle, ButtonsBarContainer } from './sign-in.styles';
 
 
-
 class SignIn extends React.Component {
   constructor(props) {
     super(props);
