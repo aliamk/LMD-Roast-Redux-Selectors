@@ -9,7 +9,7 @@ import github from '../../assets/github.svg'
 const ContactPage = () => {
   return (
     <ContactPageContainer>
-      <Title>Contact LMD Roast!</Title>
+      <Title>Talk to LMD Roast!</Title>
       <ImageContainer>
         <CoffeeImageOne src={coffee_cup} alt='coffee cup image' />
         <CoffeeImageTwo src={coffee_cup} alt='coffee cup image' />
