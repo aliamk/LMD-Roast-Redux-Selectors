@@ -3,12 +3,7 @@ import 'firebase/firestore' // for the database
 import 'firebase/auth'  // for the authorisation
 
 const config = {
-    apiKey: "AIzaSyBPEabtWWpwv-yRWfuKpOl39YWwSEQl7Dg",
-    authDomain: "lmd-roast-64115.firebaseapp.com",
-    projectId: "lmd-roast-64115",
-    storageBucket: "lmd-roast-64115.appspot.com",
-    messagingSenderId: "1004686249671",
-    appId: "1:1004686249671:web:6937295548dd676fe738e2"
+    // ADD FIREBASE CONFIG HERE
 }
 
 export const createUserProfileDocument = async (userAuth, additionalData) => {
