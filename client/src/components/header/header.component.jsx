@@ -9,12 +9,9 @@ import { selectCartHidden } from '../../redux/cart/cart.selector'
 import { selectCurrentUser } from '../../redux/user/user.selectors'
 import coffee_logo from '../../assets/coffee_logo.gif'
 // import './header.styles.scss'
-import {
-  HeaderContainer,
-  LogoContainer,
-  OptionsContainer,
-  OptionLink
-} from './header.styles'
+import { HeaderContainer, LogoContainer, OptionsContainer, OptionLink, CompanyName } from './header.styles'
+import SplitText from './companyName'
+import './companyName.css'
 
 
 
@@ -23,6 +20,9 @@ const Header = ({ currentUser, hidden }) => (
     <LogoContainer to='/'>
       <img src={coffee_logo} className='logo' alt="company logo" />
     </LogoContainer>
+    <CompanyName>
+      <SplitText copy="LMD Roast!" role="heading" />
+    </CompanyName>
     <OptionsContainer>
       <OptionLink to='/shop'>SHOP</OptionLink>
       <OptionLink to='/shop'>CONTACT</OptionLink>

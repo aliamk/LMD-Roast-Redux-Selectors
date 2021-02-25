@@ -17,6 +17,7 @@ export const LogoContainer = styled(Link)`
     height: 100%;
     width: 70px;
     padding: 0 0 15px 15px;
+    margin: 0;
 `;
 
 export const OptionsContainer = styled.div`
@@ -26,6 +27,10 @@ export const OptionsContainer = styled.div`
     align-items: center;
     justify-content: flex-end;
     padding-top: 25px;
+`;
+
+export const CompanyName = styled.h1`
+  margin-top: 0.1em;
 `;
 
 /* Because we have a conditional style that applies to both div and Link,
