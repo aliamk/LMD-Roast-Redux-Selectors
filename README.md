@@ -1,7 +1,7 @@
 # LMD Roast!
 
 ## An e-commerce site with authentication and payment
-*React - Node/Express - Redux - Firebase - Google Identity - Stripe*
+*React - Redux - Firebase - Google API - Node/Express - Stripe*
 ---
 ---
 ![React logo](https://img.icons8.com/plasticine/40/000000/react.png)    **React:** A library that allows declarative programming with reusable components and uni-directional data flow
