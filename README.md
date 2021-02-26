@@ -28,3 +28,13 @@
 
 ## Signing-in and being authenticated as a Google user
 ![github](https://github.com/aliamk/LMD-Roast-Redux-Selectors/blob/master/readme_assets/cofffee_beans_google_sign_in.gif)
+
+---
+
+If cloning this repo, you'll need the following:
+1. Firebase account for with configuration details like apiKey (firebase.utils.js file)
+1. Google account for 3rd party sign-in and authentication
+1. A Stripe account to use its API for payments
+1. Once downloaded, run the terminal command in both the root and client folder of the project:  npm install
+1. Add the various api keys/configuration for each of the APIs
+1. Use terminal command in both root and client to open the app in a browser:  npm start
