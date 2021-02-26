@@ -4,7 +4,7 @@
 *React - Redux - Firebase - Google API - Node/Express - Stripe*
 ---
 ---
-![React logo](https://img.icons8.com/plasticine/40/000000/react.png)    **React:** A library that allows declarative programming with reusable components and uni-directional data flow
+![React logo](https://img.icons8.com/plasticine/40/000000/react.png)<br />**React:** A library that allows declarative programming with reusable components and uni-directional data flow
 
 ![Redux logo](https://img.icons8.com/color/30/000000/redux.png)    **Redux:** To switch from local state management to single and global sources of truth in order to future-proof the app by making it scalable
 
