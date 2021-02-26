@@ -6,13 +6,13 @@
 ---
 ![React logo](https://img.icons8.com/plasticine/40/000000/react.png)    **React:** A library that allows declarative programming with reusable components and uni-directional data flow
 
-![NodeExpress logo](https://img.icons8.com/color/40/000000/nodejs.png)    **Node + Express:** Used as a backend for the processing of Stripe payments
-
 ![Redux logo](https://img.icons8.com/color/30/000000/redux.png)    **Redux:** To switch from local state management to single and global sources of truth in order to future-proof the app by making it scalable
 
 ![Firebase logo](https://img.icons8.com/color/30/000000/firebase.png)    **Firebase:** For users to manually sign-in and be authenticated/stored on the Firebase database
 
 ![Google logo](https://img.icons8.com/color/30/000000/google-logo.png)    **Google API:** For users to be authenticated and sign-in with their Google accounts
+
+![NodeExpress logo](https://img.icons8.com/color/40/000000/nodejs.png)    **Node + Express:** Used as a backend for the processing of Stripe payments
 
 ![Stripe logo](https://img.icons8.com/fluent/30/000000/stripe.png)    **Stripe API:** For users to easily pay for their items
 
