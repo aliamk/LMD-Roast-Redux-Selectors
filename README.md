@@ -1,4 +1,4 @@
-# LMD Roast!
+# LMD Roast!  ######...or Light Medium Dark rrrROAST!
 
 ## An e-commerce site with cloud storage, third-party authentication and payment for people who want the rarest coffee beans and want them now
 *React - Redux - Firebase - Google API - Node/Express - Stripe*
