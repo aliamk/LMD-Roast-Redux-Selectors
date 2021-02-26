@@ -4,7 +4,7 @@
 *React - Node/Express - Redux - Firebase - Google Identity - Stripe*
 ---
 ---
-![React logo](https://img.icons8.com/plasticine/30/000000/react.png)    **React:** For users to manually sign-in and be authenticated/stored on the Firebase database
+![React logo](https://img.icons8.com/plasticine/30/000000/react.png)    **React:** A library that allows declarative programming with reusable components and uni-directional data flow
 
 ![NodeExpress logo](https://img.icons8.com/color/30/000000/nodejs.png)    **Node + Express:** Used as a backend for the processing of Stripe payments
 
