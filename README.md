@@ -34,7 +34,7 @@
 
 If cloning this repo, you'll need the following:
 1. Firebase account with configuration details like apiKey (add to the src/firebase/firebase.utils.js file)
-1. Google account for 3rd party sign-in and authentication (enabled via the Firebase authentication tab)
+1. Gmail account for 3rd party sign-in and authentication (enabled via the Firebase authentication tab)
 1. A Stripe account to use its API for payments (add the secret key to the dotenv file and require it in Express)
 1. Once downloaded, run this terminal command in both the root and client folder of the project:  npm install
 1. Use terminal command in both root and client to open the app in a browser:  npm start
