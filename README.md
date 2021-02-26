@@ -3,7 +3,7 @@
 ## An e-commerce site with authentication and payment
 *React - Redux - Firebase - Google API - Node/Express - Stripe*
 ---
-#### This app was deployed on Heroku and can be reached on https://lmd-roast.herokuapp.com/ [ heroku apps can be slow to load so it may be a good time to get a cup of coffee :relaxed: :coffee: ]
+##### This app was deployed on Heroku and can be reached on https://lmd-roast.herokuapp.com/ [ heroku apps can be slow to load so it may be a good time to get a cup of coffee :relaxed: :coffee: ]
 ---
 ![React logo](https://img.icons8.com/plasticine/40/000000/react.png)&nbsp;&nbsp;**React:** A library that allows declarative programming with reusable components and uni-directional data flow
 
