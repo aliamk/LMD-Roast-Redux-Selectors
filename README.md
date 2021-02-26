@@ -4,17 +4,17 @@
 *React - Redux - Firebase - Google API - Node/Express - Stripe*
 ---
 ---
-![React logo](https://img.icons8.com/plasticine/40/000000/react.png)&nbsp;**React:** A library that allows declarative programming with reusable components and uni-directional data flow
+![React logo](https://img.icons8.com/plasticine/40/000000/react.png)&nbsp;&nbsp;**React:** A library that allows declarative programming with reusable components and uni-directional data flow
 
-![Redux logo](https://img.icons8.com/color/30/000000/redux.png)&nbsp;**Redux:** To switch from local state management to single and global sources of truth in order to future-proof the app by making it scalable
+![Redux logo](https://img.icons8.com/color/30/000000/redux.png)&nbsp;&nbsp;**Redux:** To switch from local state management to single and global sources of truth in order to future-proof the app by making it scalable
 
-![Firebase logo](https://img.icons8.com/color/30/000000/firebase.png)&nbsp;**Firebase:** For users to manually sign-in and be authenticated/stored on the Firebase database
+![Firebase logo](https://img.icons8.com/color/30/000000/firebase.png)&nbsp;&nbsp;**Firebase:** For users to manually sign-in and be authenticated/stored on the Firebase database
 
-![Google logo](https://img.icons8.com/color/30/000000/google-logo.png)&nbsp;**Google API:** For users to be authenticated and sign-in with their Google accounts
+![Google logo](https://img.icons8.com/color/30/000000/google-logo.png)&nbsp;&nbsp;**Google API:** For users to be authenticated and sign-in with their Google accounts
 
-![NodeExpress logo](https://img.icons8.com/color/40/000000/nodejs.png)&nbsp;**Node + Express:** Used as a backend for the processing of Stripe payments
+![NodeExpress logo](https://img.icons8.com/color/40/000000/nodejs.png)&nbsp;&nbsp;**Node + Express:** Used as a backend for the processing of Stripe payments
 
-![Stripe logo](https://img.icons8.com/fluent/30/000000/stripe.png)&nbsp;**Stripe API:** For users to easily pay for their items
+![Stripe logo](https://img.icons8.com/fluent/30/000000/stripe.png)&nbsp;&nbsp;**Stripe API:** For users to easily pay for their items
 
 ---
 ## Overview of the whole app
