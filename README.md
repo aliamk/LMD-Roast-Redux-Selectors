@@ -1,6 +1,6 @@
 # LMD Roast!
 
-## An e-commerce site with authentication and payment
+## An e-commerce site with cloud storage, third-party authentication and payment for people who want the rarest coffee beans and want them now
 *React - Redux - Firebase - Google API - Node/Express - Stripe*
 ---
 ##### This app was deployed on Heroku at https://lmd-roast.herokuapp.com/ - heroku apps can be slow to load so it may be a good time to get a cup of coffee while you wait :relaxed: :coffee:
