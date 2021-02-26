@@ -20,7 +20,7 @@
 ## Overview of the whole app
 ![github](https://github.com/aliamk/LMD-Roast-Redux-Selectors/blob/master/readme_assets/cofffee_beans_whole_app.gif)
 
-## Checking out with payment and address details via the Stripe API
+## Checking-out with payment and address details via the Stripe API
 ![github](https://github.com/aliamk/LMD-Roast-Redux-Selectors/blob/master/readme_assets/cofffee_beans_checkout.gif)
 
 ## Manually signing-in as an existing user and having user data requested from the Firebase database
