@@ -4,9 +4,9 @@
 *React - Node/Express - Redux - Firebase - Google Identity - Stripe*
 ---
 ---
-![React logo](https://img.icons8.com/plasticine/30/000000/react.png)    **React:** A library that allows declarative programming with reusable components and uni-directional data flow
+![React logo](https://img.icons8.com/plasticine/40/000000/react.png)    **React:** A library that allows declarative programming with reusable components and uni-directional data flow
 
-![NodeExpress logo](https://img.icons8.com/color/30/000000/nodejs.png)    **Node + Express:** Used as a backend for the processing of Stripe payments
+![NodeExpress logo](https://img.icons8.com/color/40/000000/nodejs.png)    **Node + Express:** Used as a backend for the processing of Stripe payments
 
 ![Redux logo](https://img.icons8.com/color/30/000000/redux.png)    **Redux:** To switch from local state management to single and global sources of truth in order to future-proof the app by making it scalable.
 
