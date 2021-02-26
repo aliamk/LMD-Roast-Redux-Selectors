@@ -32,7 +32,7 @@
 ---
 
 If cloning this repo, you'll need the following:
-1. Firebase account for with configuration details like apiKey (firebase.utils.js file)
+1. Firebase account with configuration details like apiKey (firebase.utils.js file)
 1. Google account for 3rd party sign-in and authentication
 1. A Stripe account to use its API for payments
 1. Once downloaded, run the terminal command in both the root and client folder of the project:  npm install
