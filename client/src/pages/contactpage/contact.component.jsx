@@ -17,7 +17,7 @@ const ContactPage = () => {
       <Details>
         <Icons src={email} alt='email icon' />malek.alia@gmail.com
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <Icons src={portfolio} alt='portfolio icon' />https://aliamk.github.io/Portfolio/
+        <Icons src={portfolio} alt='portfolio icon' />https://aliamk.netlify.app/
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <Icons src={github} alt='github icon' />https://github.com/aliamk
       </Details>
